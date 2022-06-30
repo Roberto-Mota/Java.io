@@ -7,7 +7,7 @@ import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
 
-public class triadCamadasDecoratorOutput { //Conceitos iniciais no arquivo de Input
+public class TriadCamadasDecoratorOutput { //Conceitos iniciais no arquivo de Input
 
     public static void main(String[] args) throws IOException {
 

@@ -10,7 +10,7 @@ import java.io.Reader;
 /**
  * testesMain
  */
-public class triadCamadasDecoratorInput { // 00101110 -> [][][][] -> lorem line bla bla bla || br(isr(fis(lorem.txt)))
+public class TriadCamadasDecoratorInput { // 00101110 -> [][][][] -> lorem line bla bla bla || br(isr(fis(lorem.txt)))
     public static void main(String[] args) throws IOException {
 
             // Fluxo de entrada com um arquivo (tem exceção checked, precisa tratar)

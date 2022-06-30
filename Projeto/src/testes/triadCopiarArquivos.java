@@ -12,7 +12,7 @@ import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
 
-public class triadCopiarArquivos {
+public class TriadCopiarArquivos {
 
     public static void main(String[] args) throws IOException {
         
