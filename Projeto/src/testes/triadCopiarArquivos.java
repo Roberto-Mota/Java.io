@@ -26,9 +26,7 @@ public class TriadCopiarArquivos {
             OutputStream fos = new FileOutputStream("loremWriteCopy.txt");
             Writer osw = new OutputStreamWriter(fos);
             BufferedWriter bw = new BufferedWriter(osw);
-            
-            
-            
+
             
             String linha = br.readLine();
             
